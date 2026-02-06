@@ -45,6 +45,13 @@ The project simulates a real-world reporting scenario where data analysts suppor
 * **SQL:** Data extraction, complex joins, and KPI logic calculations.
 * **Excel:** Data validation, pivot tables, and initial preprocessing.
 
+## 📷 Dashboard Preview
+- [![Supply Chain Executive Dashboard Page Business](Dashboard%20picture/Business%20Health%20Page)](https://app.powerbi.com/groups/me/reports/0f2e5f7d-03a5-469d-85ef-36d6c6bcc9a2/c665dd7a2505cc984179?experience=power-bi)
+
+
+- [![Supply Chain Executive Dashboard Page Operation](Dashboard%20picture/Operation_Supply%20Chain%20Page)](https://app.powerbi.com/groups/me/reports/0f2e5f7d-03a5-469d-85ef-36d6c6bcc9a2/3551e71d7723dc101c74?experience=power-bi)
+
+
 ## 📂 Repository Structure
 ```text
 Supply-Chain-Executive-Dashboard/
@@ -62,8 +69,4 @@ Supply-Chain-Executive-Dashboard/
 │
 └── README.md
 
-## 📷 Dashboard Preview
-- [![Supply Chain Executive Dashboard Page Business](Dashboard%20picture/Business%20Health%20Page)](https://app.powerbi.com/groups/me/reports/0f2e5f7d-03a5-469d-85ef-36d6c6bcc9a2/c665dd7a2505cc984179?experience=power-bi)
 
-
-- [![Supply Chain Executive Dashboard Page Operation](Dashboard%20picture/Operation_Supply%20Chain%20Page)](https://app.powerbi.com/groups/me/reports/0f2e5f7d-03a5-469d-85ef-36d6c6bcc9a2/3551e71d7723dc101c74?experience=power-bi)
