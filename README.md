@@ -64,8 +64,8 @@ Supply-Chain-Executive-Dashboard/
 │   └── Supply_Chain_Dashboard.pbix
 │
 ├── screenshots/            # Dashboard visuals
-│   ├── business_overview.png
-│   └── operations_overview.png
+│   ├── Business Health Page.png
+│   └── Operation_Supply Chain Page.png
 │
 └── README.md
 
